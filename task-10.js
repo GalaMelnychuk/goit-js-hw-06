@@ -17,4 +17,3 @@ const getSortedUniqueSkills = users => {
 };
 
 console.log(getSortedUniqueSkills(users));
-// [ 'adipisicing', 'amet', 'anim', 'commo do', 'culpa', 'elit', 'ex', 'ipsum', 'irure', 'laborum',
