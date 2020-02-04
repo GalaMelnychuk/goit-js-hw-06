@@ -13,7 +13,7 @@ const getSortedUniqueSkills = users => {
     return array.indexOf(skl) === idx;
   })
   
- return unic.sort();
+ return (unic.sort())
 };
 
 console.log(getSortedUniqueSkills(users));
